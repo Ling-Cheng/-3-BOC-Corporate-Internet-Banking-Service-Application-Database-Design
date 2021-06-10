@@ -11,8 +11,12 @@ This solution would help the company build and maintain an end-to-end database s
 ## Technical Overview ##
 The project has been divided into 3 steps which include:
 * Created Conceptual & Practical Entity Relationship Diagram (ERD) based on the corresponding form
-* Used MS Access to build the database in form of Tables, Relationships, and Queries based on the ERD
+* Used MS Access to build the database in form of Tables, Relationships, and Queries
 * Built Forms and Reports to access client data
 
 ## Results ##
-The Corporate Internet Banking Service Application form can be accessed here - TD_Mututal_Fund_Form.pdf https://github.com/Ling-Cheng/-3-BOC-Corporate-Internet-Banking-Service-Application-Database-Design/blob/main/BOC_Corporate%20Internet%20Banking%20Service%20Application_Design.pdf.accdb
+The Corporate Internet Banking Service Application form can be accessed here -[BOC_Corporate Internet Banking Service Application_Form.pdf](https://github.com/Ling-Cheng/BOC_Corporate_Internet_Banking_Service_Application_Database_Design/blob/main/BOC_Corporate%20Internet%20Banking%20Service%20Application_Form.pdf)
+
+The conceptual and practical entity relationship diagram can be found in [BOC_Corporate Internet Banking Service Application_ERD.pdf](https://github.com/Ling-Cheng/BOC_Corporate_Internet_Banking_Service_Application_Database_Design/blob/main/BOC_Corporate%20Internet%20Banking%20Service%20Application_ERD.pdf)
+
+The final database design and corresponding forms and reports can be found here (View using MS Access) - [BOC_Corporate Internet Banking Service Application_Design.accdb](https://github.com/LingCheng/BOC_Corporate_Internet_Banking_Service_Application_Database_Design/blob/main/BOC_Corporate%20Internet%20Banking%20Service%20Application_Design.accdb)
